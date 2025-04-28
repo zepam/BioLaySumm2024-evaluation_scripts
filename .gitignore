@@ -1,2 +1,8 @@
 models/
 data/
+elife_tfidf_summaries.csv
+elife_train_data.txt
+.gitignore
+elife_test.txt
+*.json
+*.parquet
